@@ -1,0 +1,21 @@
+{
+  "test_images": 7066,
+  "loss": 1.0211950540542603,
+  "accuracy": 0.6313331723213196,
+  "top2_accuracy": 0.7998867817718652,
+  "macro_precision": 0.6351252478954541,
+  "macro_recall": 0.6013890811665156,
+  "macro_f1": 0.6139642208387769,
+  "weighted_precision": 0.6273380515382962,
+  "weighted_recall": 0.6313331446362864,
+  "weighted_f1": 0.6283304940358062,
+  "classes": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ]
+}
